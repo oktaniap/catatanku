@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">catatanku</string>
+    <string name="judul">Judul</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="prioritas">Prioritas:</string>
+    <string name="_1">1</string>
+</resources>
